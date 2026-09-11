@@ -22,7 +22,7 @@ Open-source web projects, dashboards/internal tools for small orgs, and anything
 📫 Reach Me
 📧 frankalwanyiherbert@gmail.com
 🔗 Portfolio: [frankportfolio.gt.tc](http://frankportfolio.gt.tc) · [franklyn-alwanyi.netlify.app](https://franklyn-alwanyi.netlify.app/)
-🔗 [LinkedIn](https://linkedin.com/in/franklyn-alwanyi-5a6a0b296)
+🔗 [LinkedIn](https://www.linkedin.com/in/frank-herbert-a47793430/)
 
 ⚡ Fun Fact
 Outside of code, I still write bars — rap's the other craft.
