@@ -1,30 +1,27 @@
-👋 Hey, I’m Frank
+👋 Hey, I'm Frank
 
-Web design enthusiast | IT graduate | Builder of clean, functional digital experiences
+IT Assistant @ Rafiki wa Maendeleo Trust | BSc IT | Full-stack builder & network guy
 
-👀 Interests
+I keep the ICT side of an NGO running — helpdesk, systems, and networks — while building web tools and dashboards on the side.
 
-Front-end development, UI/UX, cybersecurity concepts, and creating smooth, user-friendly interfaces.
+🔭 Currently Working On
+- An AI-powered IT Helpdesk system for RWMT
+- React.js frontend for RWMT's internal M&E (Monitoring & Evaluation) system
+- A cinematic portfolio rebuild (React + Vite)
+
+🛠️ Tech I Use
+`PHP (OOP)` `MySQL` `JavaScript` `React` `Java` `Python` `SQL`
+Linux/Kali, Nmap, Wireshark, Odoo ERP, Active Directory, Excel dashboards
 
 🌱 Currently Learning
-
-R for data analysis + sharpening my HTML/CSS/JS skills and expanding my security awareness.
+Power BI, wireshark,sharpening React, and going deeper on network security.
 
 🤝 Open to Collaboration
-
-Open-source web projects, UI/UX design work, and simple tools that solve real-world problems.
+Open-source web projects, dashboards/internal tools for small orgs, and anything Odoo-related.
 
 📫 Reach Me
-
-frankalwanyiherbert@gmail.com
+📧 frankalwanyiherbert@gmail.com
+🔗 [Portfolio](http://frankportfolio.gt.tc) · [LinkedIn](https://www.linkedin.com/in/frank-herbert-a47793430/))
 
 ⚡ Fun Fact
-
-When I’m not writing code, I’m writing bars — yes, I rap.
-
-
-
-<!---
-frank-enthus/frank-enthus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Outside of code, I still write bars — rap's the other craft.
