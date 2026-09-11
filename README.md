@@ -14,14 +14,15 @@ I keep the ICT side of an NGO running — helpdesk, systems, and networks — wh
 Linux/Kali, Nmap, Wireshark, Odoo ERP, Active Directory, Excel dashboards
 
 🌱 Currently Learning
-Power BI, wireshark,sharpening React, and going deeper on network security.
+Power BI, sharpening React, and going deeper on network security.
 
 🤝 Open to Collaboration
 Open-source web projects, dashboards/internal tools for small orgs, and anything Odoo-related.
 
 📫 Reach Me
 📧 frankalwanyiherbert@gmail.com
-🔗 [Portfolio](http://frankportfolio.gt.tc) · [LinkedIn](https://www.linkedin.com/in/frank-herbert-a47793430/))
+🔗 Portfolio: [frankportfolio.gt.tc](http://frankportfolio.gt.tc) · [franklyn-alwanyi.netlify.app](https://franklyn-alwanyi.netlify.app/)
+🔗 [LinkedIn](https://linkedin.com/in/franklyn-alwanyi-5a6a0b296)
 
 ⚡ Fun Fact
 Outside of code, I still write bars — rap's the other craft.
